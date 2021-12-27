@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[img](https://github-readme-stats.vercel.app/api?username=Jhvictor4&show_icons=true&count_private=true&theme=radical)
 <!--
 **Jhvictor4/Jhvictor4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
