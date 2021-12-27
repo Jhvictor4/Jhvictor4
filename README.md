@@ -1,5 +1,5 @@
 <div align='center'>
- ![img](https://github-readme-stats.vercel.app/api?username=Jhvictor4&show_icons=true&count_private=true&theme=radical)
+ ![stats](https://github-readme-stats.vercel.app/api?username=Jhvictor4&show_icons=true&count_private=true&theme=radical)
 </div>
 
 - 🔭 I’m currently working on ...
